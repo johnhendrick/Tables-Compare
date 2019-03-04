@@ -14,3 +14,12 @@ The day-to-day tasks of Business Analyst, Functional Consultants, and Data Analy
 The code converts 2 .xls files into pandas dataframes and perform validations against rows, columns and returns delta analysis & mismatches in each rows and columns in another excel output.xlsx
 
 (detail descriptions WIP)
+
+
+
+### Dependencies:
+Python > 2.7
+pandas
+numpy 
+Tkinter
+tkFileDialog
