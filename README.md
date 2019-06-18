@@ -2,7 +2,7 @@
 This script validates 2 excel/csv files
 
 ### Rationale:
-The day-to-day tasks of Business Analyst, Functional Consultants, and Data Analyst demand validating datas being communicated between cross-functional teams or data extracts from enterprise systems. Validating 2 or more excel files is a time-consuming manual task in excel and VBA macro is not always the most reliable and scalable method for large excel files. This Python script compare 2 excel files and output the delta between the two files as an output. 
+The day-to-day tasks of Business Analyst, Functional Consultants, and Data Analyst demand validating datas being communicated between cross-functional teams or data extracts from enterprise systems. Validating 2 or more excel files is a time-consuming manual task in excel and VBA macro is not always the most reliable and scalable method for large excel files. This Python script compare 2 excel files and output the delta between the two files. 
 
 ### Application:
 - Post ETL load & extract validation
